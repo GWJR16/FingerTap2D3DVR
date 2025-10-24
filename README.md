@@ -11,7 +11,7 @@ Contains:
 Instructions:
 1) Download .zip
 2) Extract
-3) "FingerTap2D3DVR.exe"
+3) Open "FingerTap2D3DVR.exe"
 
 Note:
 Keep .exe file in "Builds_FingerTapAPP/"
